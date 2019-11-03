@@ -1,0 +1,19 @@
+.navlink.active {
+    font-family: sans-serif;
+}
+
+.inner.cover {
+    font-family: sans-serif;
+}
+
+.mastfoot.mt-auto {
+    font-family: sans-serif;
+}
+
+body {
+    background:grey;
+}
+
+h1, h2 {
+    color:#ffffff
+}
