@@ -1,0 +1,8 @@
+{
+  "name": "cmgencojr.com.local",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://cmgencojr:IrishRed92@github.com/cmgencojr/cmgencojr.com.git",
+  "author": "cmgencojr <cmgencojr@gmail.com>",
+  "license": "MIT"
+}
