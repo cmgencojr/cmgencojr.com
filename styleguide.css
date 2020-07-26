@@ -1,18 +1,15 @@
 .navlink.active {
-    font-family: sans-serif;
+    font-family: Helvetica;
 }
 
 .inner.cover {
-    font-family: sans-serif;
+    font-family: Helvetica;
 }
 
 .mastfoot.mt-auto {
-    font-family: sans-serif;
+    font-family: Helvetica;
 }
 
-body {
-    background: #DCDCDC;
-}
 
 h1, h2 {
     color:#ffffff
@@ -21,3 +18,7 @@ h1, h2 {
 img {
     border-radius: 50%;
   }
+
+body {
+    background-color: rgba(0, 0, 128,0.6)
+}
